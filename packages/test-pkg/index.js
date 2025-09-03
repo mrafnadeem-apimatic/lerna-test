@@ -1,4 +1,4 @@
 // Simple test package for publishing
 export function hello() {
-  return "Hello from test-pkg! ALPHA";
+  return "Hello from test-pkg! ALPHA2";
 }
