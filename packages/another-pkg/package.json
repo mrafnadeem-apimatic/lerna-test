@@ -3,5 +3,8 @@
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "raf-test-pkg": "^0.1.0"
+  }
 }
