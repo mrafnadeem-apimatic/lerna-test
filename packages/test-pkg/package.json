@@ -1,6 +1,6 @@
 {
   "name": "raf-test-pkg",
-  "version": "0.0.5",
+  "version": "0.1.0-alpha.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
