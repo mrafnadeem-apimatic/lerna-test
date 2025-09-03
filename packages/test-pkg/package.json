@@ -1,7 +1,8 @@
 {
-  "name": "rafay-test-pkg",
-  "version": "0.0.4-alpha.0",
+  "name": "raf-test-pkg",
+  "version": "0.0.5-alpha.0",
   "main": "index.js",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "gitHead": "66296b8be5babb716e6c87b36ebf6d7333203076"
 }
