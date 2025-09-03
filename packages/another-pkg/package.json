@@ -1,0 +1,7 @@
+{
+  "name": "raf-another-test-pkg",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
